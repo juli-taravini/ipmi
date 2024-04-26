@@ -1,3 +1,6 @@
+/// TP1
+/// Julieta Taravini
+/// Comisión 5
 PImage img;
 
 void setup(){
